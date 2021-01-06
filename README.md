@@ -37,4 +37,3 @@ Clone repository.
 In the directory with server.js run npm install
 as soon as you see the Message,(App listening on PORT: 3000) you can work on your localhost and type on the save and retrieve the data.
 
-https://github.com/kingsleyramos/Note-Taker
