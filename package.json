@@ -1,0 +1,24 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "express",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkarkuody/Note-Taker.git"
+  },
+  "author": "Merdad Karkudi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkarkuody/Note-Taker/issues"
+  },
+  "homepage": "https://github.com/mkarkuody/Note-Taker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
