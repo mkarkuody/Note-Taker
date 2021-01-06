@@ -12,6 +12,7 @@ https://github.com/mkarkuody/Note-Taker
 <img src="Screenshot_2.jpg">
 
 # demo video link :
+https://github.com/mkarkuody/Note-Taker/blob/main/mkarkuody%20(MERDAD).mp4
 
 
 # Tool & Resources
